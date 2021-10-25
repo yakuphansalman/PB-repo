@@ -5,7 +5,7 @@ var broken = false;
 Main();
 
 function Main(){
-    Create(6,5,5,7);
+    Create(4,4,4,4);
     Break();
 }
 
